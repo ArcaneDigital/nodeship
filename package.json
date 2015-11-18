@@ -1,0 +1,26 @@
+{
+  "name": "nodeship",
+  "version": "0.0.2",
+  "description": "A codeship api wrapper",
+  "main": "index.js",
+  "homepage": "https://github.com/ArcaneDigital/nodeship",
+  "keywords": [
+    "codeship"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArcaneDigital/nodeship"
+  },
+  "author": {
+    "name": "Arcane Digital"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.66.0",
+    "underscore": "^1.8.3"
+  },
+  "repository" : {
+    "type" : "git"
+  , "url" : "https://github.com/arcanedigital/nodeship.git"
+  }
+}
